@@ -1,5 +1,5 @@
 /*********************************************************************
- * #### jQuery Awesome Sosmed Share Button / htmlfromrss.js V.0.001 ####
+ * #### jQuery htmlfromrss.js V.0.001 ####
  * Coded by Ican Bachors 2016.
  * http://ibacor.com/labs/htmlfromrssjs
  * Updates will be posted to this site.
