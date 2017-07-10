@@ -10,4 +10,3 @@ Mutiple html feed from rss feed
         limit = 10
     );
 });</pre>
-<a href="http://ibacor.com/demo/htmlfromrssjs" target="_BLANK"><h1>DEMO</h1></a>
